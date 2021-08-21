@@ -34,4 +34,5 @@ var (
 	// ErrInvalidNumber is returned if a block's number doesn't equal its parent's
 	// plus one.
 	ErrInvalidNumber = errors.New("invalid block number")
+	//another comment
 )
